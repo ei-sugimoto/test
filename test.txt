@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello hello hello world
-=======
-Hello HatchOut School
->>>>>>> feature/1
+aiueo
